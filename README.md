@@ -24,12 +24,12 @@ Ensure you have the following installed:
 
 1. **Clone the Repository**
     ```bash
-    git clone [Repository URL]
+    git clone https://github.com/ArcherUz/RealTimeChatapp.git
     ```
 
 2. **Navigate to Project Directory**
     ```bash
-    cd [Project Directory]
+    cd chat-app
     ```
 
 3. **Install Dependencies**
