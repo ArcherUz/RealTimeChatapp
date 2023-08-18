@@ -1,6 +1,7 @@
 # Chat Application
 
 This real-time chat application is built using Node.js, Express, and Socket.io. Users can join different chat rooms or create their own rooms. They can send and receive messages in real time and even share their location.
+The live version : http://99.79.196.24/ on AWS with nginx
 
 ## Features
 
